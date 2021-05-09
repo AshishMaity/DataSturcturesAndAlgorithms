@@ -1,0 +1,3 @@
+Linear search time complexity of O(n)
+Binary Search has time complexity of O(log n)
+Binary Search only works with sorted array

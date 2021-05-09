@@ -1,0 +1,7 @@
+These are basic sorting algorithms
+These algorithm works well with small data sets
+bubble,insertion and selection sortings algorithms have time complexity of O(n^2)
+selection doesn't perform well when the data set is nearly sorted
+
+
+Use pratice.js file to pratice basic sorting algorithms
